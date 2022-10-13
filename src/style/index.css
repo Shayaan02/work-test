@@ -1,0 +1,3 @@
+@import "./app.css";
+@import "../components/productlist/productlist.css";
+@import "../components/productItem/ProductItem.css";
